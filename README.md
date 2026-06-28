@@ -1,5 +1,12 @@
-```markdown
 # 🛡️ Health Insurance Premium Prediction Engine
+
+<p align="center">
+  <a href="https://colab.research.google.com/drive/1XFR3T4w_i10pgUxpI0Jn_NdYPeC-bF_8?usp=sharing">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg"
+         alt="Open In Colab"
+         height="70">
+  </a>
+</p>
 
 ## 🌟 Project Purpose & Value
 This repository hosts a comprehensive data science solution for predicting annual health insurance premiums. 
@@ -69,4 +76,3 @@ The project includes a **Flask API** (`app.py`). This allows other software syst
 ## 📦 Environment Requirements
 To replicate this project, install the following via pip:
 `pip install pandas numpy scikit-learn xgboost shap flask matplotlib seaborn joblib` 
-```
